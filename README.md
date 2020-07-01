@@ -9,6 +9,7 @@ Exploratory data analysis
 Data storytelling
 
 Machine learning
+
 Deep Learning
 
 
