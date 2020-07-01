@@ -3,7 +3,11 @@
 This folder contains the work for my Amazon Image classification project. The purpose of the project was to apply data science techniques to an image dataset, including:
 
 Data wrangling
-Exploratory data analysis / Data storytelling
+
+Exploratory data analysis
+
+Data storytelling
+
 Machine learning
 Deep Learning
 
