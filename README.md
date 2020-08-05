@@ -1,8 +1,21 @@
 # Amazon Image Classification Project
 
-This folder contains the work for my Amazon Image classification project. The goal of the machine learning model is to identify various types of atmospheric and land cover present in satelite images taken from the Amazon rainforest. The data was extracted from the Kaggle competition: https://www.kaggle.com/c/planet-understanding-the-amazon-from-space
+This folder contains the work for an Amazon Satellite Image classification project. The goal of the machine learning model is to identify various types of atmospheric and land cover present in satelite images taken from the Amazon rainforest. The data was extracted from the Kaggle: 
 
-The files are organized as follows:
- - /notebooks - contains notebooks used for EDA, and machine learning as well as all visualizations creaated for the report
- - /models - contains CNN models
- - Capstone 2 - Project Report.pdf - contains an overview and discussion of all work performed.
+[Amazon Satellite ImageData](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/)  
+
+## [Table of Contents](#table-of-contents)
+
+ 1. Docs
+   - [Final Report](https://github.com/ithisted/AmazonImageClassification/tree/master/docs)  
+   Report containing data wrangling, exploratory data analysis, and machine learning explanation for the project
+2. Notebooks
+ The notebooks 
+   - [Exploratory Data Analysis](https://github.com/ithisted/AmazonImageClassification/blob/master/notebooks/1_PlanetAmazonImageClassification%20-%20EDA.ipynb)
+   - [Machine Learning - Random Forest, Baseline CNN and CNN variations](https://github.com/ithisted/AmazonImageClassification/blob/master/notebooks/2_PlanetAmazonImageClassification-Machine%20Learning.ipynb)
+   - [Machine Learning - VGG16 transfer model](https://github.com/ithisted/AmazonImageClassification/blob/master/notebooks/3_PlanetAmazonImageClassification-Machine%20Learning%20-%20Transfer.ipynb)
+   - [Machine Learning - CNN Upsampled BlowDown](https://github.com/ithisted/AmazonImageClassification/blob/master/notebooks/4_PlanetAmazonImageClassification-Machine%20Learning%20-%20Upsampling.ipynb)
+   - [CNN Filter Visualization](https://github.com/ithisted/AmazonImageClassification/blob/master/notebooks/1_PlanetAmazonImageClassification%20-%20EDA.ipynb)
+
+3. ML Models 
+   - [H5 and TF files for neural networks](https://github.com/ithisted/AmazonImageClassification/tree/master/models/)
