@@ -2,7 +2,7 @@
 
 This folder contains the work for an Amazon Satellite Image classification project. The goal of the machine learning model is to identify various types of atmospheric and land cover present in satelite images taken from the Amazon rainforest. The data was extracted from the Kaggle: 
 
-[Amazon Satellite ImageData](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/)  
+[Kaggle Amazon Satellite Image Data](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/)  
 
 ## [Table of Contents](#table-of-contents)
 
