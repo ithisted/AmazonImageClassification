@@ -6,8 +6,8 @@ This folder contains the work for an Amazon Satellite Image classification proje
 
 ## [Table of Contents](#table-of-contents)
 
- 1. Docs
-   - [Final Report](https://github.com/ithisted/AmazonImageClassification/tree/master/docs)  
+ 1. Docs  
+    - [Final Report](https://github.com/ithisted/AmazonImageClassification/tree/master/docs)  
    Report containing data wrangling, exploratory data analysis, and machine learning explanation for the project
 2. Notebooks  
 The notebooks below contain the data analysis and ML code used for this project. Due to the intensive computing requirements for running the neural networks, the ML models were broken down into separate notebooks so they could be run in parallel in a high performance cloud computing environment.
